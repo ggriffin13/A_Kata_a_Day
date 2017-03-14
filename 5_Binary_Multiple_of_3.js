@@ -1,4 +1,6 @@
 /*******************************************************************************
+ Day 5: 3/14/2017 - Binary Multiple of 3 Regex
+ 
  In this kata, your task is to create a regular expression capable of evaluating
  binary strings (strings with only 1s and 0s) and determining whether the given
  string represents a number divisible by 3.
@@ -30,4 +32,4 @@
  to study how to get the modulo of an arbitrarily large number taking one digit
  at a time.
 *******************************************************************************/
-var multipleOf3Regex = /^((((0+)?1)(10*1)*0)(0(10*1)*0|1)*(0(10*1)*(1(0+)?))|(((0+)?1)(10*1)*(1(0+)?)|(0(0+)?)))$/;
+var multipleOf3Regex = /^(1(01*0)*1|0)*$/;
