@@ -13,7 +13,7 @@ I'm going to try to complete 1 kata every day, and I will store my code here for
 1. [Binary Multiple of 3](/5_Binary_Multiple_of_3.js)
 1. [Roman Numerals Helper](/6_Roman_Numerals_Helper.js)
 1. Day 7
-   - [Roman Numerals Decoder](/7-1_Roman_Numerals_Encoder.js)
+   - [Roman Numerals Encoder](/7-1_Roman_Numerals_Encoder.js)
    - [Pyramid Slide Down](/7-2_Pyramid_Slide_Down.js)
 1. [Adding Big Numbers](/8_Adding_Big_Numbers.js)
 1. [Advanced Events](/9_Advanced_Events.js)
