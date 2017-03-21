@@ -18,3 +18,4 @@ I'm going to try to complete 1 kata every day, and I will store my code here for
 1. [Adding Big Numbers](/8_Adding_Big_Numbers.js)
 1. [Advanced Events](/9_Advanced_Events.js)
 1. [Molecule to Atoms](/10_Molecule_To_Atoms.js)
+1. [Help the general decode secret enemy messages.](/11_Help_the_general_decode_secret_enemy_messages.js)
