@@ -1,7 +1,5 @@
 # A Kata a Day
 
-> I (try to) write the best algorithms
-
 ### Check me out on [Codewars](https://www.codewars.com/users/ggriffin13/badges/large).  
 
 I'm going to try to complete 1 kata every day, and I will store my code here for that. All of my solutions are in Javascript.
